@@ -1,11 +1,4 @@
-# Kathleen Delany delan270
-# I understand this is a graded, individual examination that may not be
-# discussed with anyone. I also understand that obtaining solutions or
-# partial solutions from outside sources, or discussing
-# any aspect of the examination with anyone will result in failing the course.
-# I further certify that this program represents my own work. None of it was
-# obtained from any source other than material presented as part of the
-# course.
+# Kathleen Delany 
 
 import turtle
 import random
